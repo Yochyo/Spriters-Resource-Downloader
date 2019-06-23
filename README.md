@@ -18,5 +18,5 @@ java -jar SpriteResourceDownloader.jar https://www.spriters-resource.com/pc_comp
  
  
 Tags:
-Sprite-Resource.com downloader, Sprite resource downloader, Sprite-Resource.com, Sprite-Resource.com download several sprites at the same time,
-Sprite resource download sprites
+spriters-resource.com downloader, spriters resource downloader, spriters-resource.com, spriters-resource.com download several sprites at the same time,
+spriters resource download sprites
