@@ -12,3 +12,11 @@ An example is
 ````
 java -jar SpriteResourceDownloader.jar https://www.spriters-resource.com/pc_computer/touhoupuppetdanceperformancetouhoumon/?source=genre
 ````
+<br/><br/>
+<br/><br/>
+ 
+ 
+ 
+Tags:
+Sprite-Resource.com downloader, Sprite resource downloader, Sprite-Resource.com, Sprite-Resource.com download several sprites at the same time,
+Sprite resource download sprites
