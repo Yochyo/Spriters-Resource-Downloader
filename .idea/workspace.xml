@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="75b40972-2e6a-419f-894e-525cf935d065" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="310">
+              <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -41,12 +41,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="357">
-                <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <first_editor relative-caret-position="340">
+                <caret line="20" column="51" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -87,9 +87,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/de/yochyo/spriteresourcedownloader/Main.kt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -178,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561280302943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change readme">
+      <created>1561298981639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561298981639</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change readme">
+      <created>1561299064966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561299064966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -199,7 +213,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -215,7 +229,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
+    <MESSAGE value="change readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="change readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar!/org/jsoup/nodes/Element.class">
@@ -238,20 +253,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PC  Computer - Touhou Puppet Dance Performance (Touhoumon) - Akyuu.png" />
     <entry file="file://$PROJECT_DIR$/PC  Computer - Touhou Puppet Dance Performance (Touhoumon) - Aya.png" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/yochyo/spriteresourcedownloader/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar!/org/jsoup/nodes/Document.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -267,10 +268,24 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="357">
-            <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <first_editor relative-caret-position="340">
+            <caret line="20" column="51" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="51" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/yochyo/spriteresourcedownloader/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
         </state>
       </provider>
     </entry>
